@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\C#\\task08\\task08.csproj": {}
+    "C:\\Users\\User\\Desktop\\Learn C#\\C#\\task08\\task08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\C#\\task08\\task08.csproj": {
+    "C:\\Users\\User\\Desktop\\Learn C#\\C#\\task08\\task08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\C#\\task08\\task08.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Learn C#\\C#\\task08\\task08.csproj",
         "projectName": "task08",
-        "projectPath": "C:\\Users\\User\\Desktop\\C#\\task08\\task08.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Learn C#\\C#\\task08\\task08.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\C#\\task08\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Learn C#\\C#\\task08\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
