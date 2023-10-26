@@ -13,8 +13,6 @@ public class Answer
             max = array[i];
         }
         return max;
-
-       
     }
 
     public static double FindMin(double[] array)
@@ -26,19 +24,13 @@ public class Answer
             min = array[i];
         }
         return min;
-
-
-
     }
 
     public static double CalcDifferenceBetweenMaxMin(double[] array)
     {// Введите свое решение ниже
         double dif = 0;
         dif = FindMax(array) - FindMin(array);
-        return dif;
-
-
-
+        return dif
     }
 
     public static void PrintArray(double[] array)
