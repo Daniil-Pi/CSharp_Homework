@@ -13,12 +13,21 @@ int n = int.Parse(Console.ReadLine());
 int Function(int m, int n)
 {
     if (m == 0)
+    {
+        System.Console.WriteLine("n = " + n);
         return n+1;
+    }
     else
         if ((m != 0) && (n == 0))
+        {
+            System.Console.WriteLine($"M={m}, N={n}");
             return Function(m - 1, 1);
+        }
         else
+        {
+            System.Console.WriteLine($"m={m}, n={n}");
             return Function(m - 1, Function(m, n - 1));
+        }
 }
 
 int result = Function(m,n);
